@@ -1,2 +1,2 @@
 # aspnet-identity-tsql
-ASP.NET Identity Provider on SQL Server but in pure T-SQL with SQL Source Control
+ASP.NET Identity Provider for SQL Server but in pure T-SQL with SQL Source Control.
